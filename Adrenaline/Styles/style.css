@@ -288,11 +288,11 @@ html {
 
 /* Popular tours */
 .popular-tours {
-    padding: 2rem 0 2rem 0;
+    padding: 5rem 0 1rem 0;
 }
 
 .popular-tours-heading {
-    font-size: 8rem;
+    font-size: 5rem;
     text-align: center;
     margin-bottom: 2rem;
     color:  #22243B;
@@ -346,15 +346,15 @@ html {
 .card-list {
     width: 80%;
     margin: auto;
-    padding: 2rem 0 3rem 0;
+    padding: 5rem 0 3rem 0;
 }
 
 .card-list-item {
     font-size: 1.6rem;
     font-weight: 500;
-    color: var(--light-grey-color);
+    color: #22243B);
     margin: 2rem 0;
-    border-bottom: 0.1rem solid var(--primary-color);
+    border-bottom: 0.1rem solid #22243B;
     padding-bottom: 1.5rem;
 }
 
