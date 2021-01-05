@@ -352,7 +352,7 @@ html {
 .card-list-item {
     font-size: 1.6rem;
     font-weight: 500;
-    color: #22243B);
+    color: #22243B;
     margin: 2rem 0;
     border-bottom: 0.1rem solid #22243B;
     padding-bottom: 1.5rem;
@@ -479,13 +479,26 @@ html {
 .story-paragraph::first-letter {
     margin-left: 1rem;
 }
+
+.about-heading {
+    font-size: 7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5rem;
+    color: var(--white-color);
+    text-shadow: 0 1rem 2rem #000;
+    margin-bottom: 8rem;
+    align-items: center;
+    text-align: center;
+}
+
 /* End of Stories */
 
 /* Contact */
 .contact {
     padding: 15rem 0 20rem 0;
     text-align: center;
-    background: url(images/contact-us-bg.png) center no-repeat;
+    background: url(../images/contact-us-bg.png) center no-repeat;
     background-size: cover;
     animation: contact-bg 35s infinite;
 }
@@ -582,19 +595,19 @@ html {
 
 @keyframes contact-bg {
     0% {
-        background-color: #3d3d3d;
+        background-color: #87cefa;
     }
     25% {
         background-color: #ced8e4;
     }
     50% {
-        background-color: #1e81f3;
+        background-color: #FE7907;
     }
     75% {
-        background-color: #ff7842;
+        background-color: #FFFB77;
     }
     100% {
-        background-color: #3d3d3d;
+        background-color: #87cefa;
     }
 }
 /* End of Contact */
@@ -744,6 +757,10 @@ html {
     }
 
     .contact-heading {
+        font-size: 6rem;
+    }
+
+    .about-heading {
         font-size: 6rem;
     }
 
