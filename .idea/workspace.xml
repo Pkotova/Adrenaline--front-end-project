@@ -3,10 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="2a2a6816-b592-4471-a0b1-73ea5f5967ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adrenaline/Scripts/comments.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Scripts/comments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adrenaline/Scripts/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Scripts/dom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adrenaline/Pages/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Pages/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adrenaline/Pages/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Pages/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Adrenaline/Scripts/dom.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Scripts/style.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Adrenaline/Scripts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Scripts/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adrenaline/Styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/Styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Adrenaline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Adrenaline/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\petya\OneDrive\Documents\GitHub\Adrenaline--front-end-project\Adrenaline\Scripts" />
       <recent name="C:\Users\petya\Desktop\Adrenaline\Styles" />
       <recent name="C:\Users\petya\Desktop\Adrenaline" />
     </key>
@@ -71,6 +72,8 @@
       <workItem from="1609785090364" duration="4089000" />
       <workItem from="1609790438985" duration="879000" />
       <workItem from="1612865042987" duration="2044000" />
+      <workItem from="1612873567025" duration="101000" />
+      <workItem from="1612873669663" duration="1588000" />
     </task>
     <servers />
   </component>

@@ -12,10 +12,10 @@
 <!-- Contact -->
 <section class="contact">
     <h1 class="contact-heading">Contact Us</h1>
-    <form class="contact-form center">
+    <form class="contact-form center" name ="myForm">
         <div class="input-group">
             <label>Full Name *</label>
-            <input
+            <input	name = "Name"
                     type="text"
                     class="contact-input"
                     placeholder="Enter Your Name"
@@ -25,6 +25,7 @@
             <div class="input-group">
                 <label>Email *</label>
                 <input
+						name = "Email"
                         type="email"
                         class="contact-input"
                         placeholder="Enter Your Email"
@@ -40,13 +41,14 @@
             </div>
         </div>
         <div class="input-group">
-            <label>Message</label>
+            <label>Message*</label>
             <textarea
+					name = "Message"
                     class="form-textarea"
                     placeholder="Enter Your Message Here..."
             ></textarea>
         </div>
-        <input type="submit" value="Submit" class="form-btn" />
+        <button type="submit" value="Submit" class="form-btn" onclick="validate()">Send</button>
     </form>
 </section>
 <!-- End of Contact -->
