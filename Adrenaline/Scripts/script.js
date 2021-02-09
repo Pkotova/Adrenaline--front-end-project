@@ -6,3 +6,4 @@ Array.from(document.querySelectorAll(".navigation-button")).forEach(item => {
         item.parentElement.parentElement.classList.toggle("change");
     };
 });
+
