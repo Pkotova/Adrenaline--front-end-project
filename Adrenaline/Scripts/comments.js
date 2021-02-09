@@ -1,3 +1,4 @@
+'use strict';
 function req() {
     fetch('https://jsonplaceholder.typicode.com/comments/1')
         .then(response => response.json())

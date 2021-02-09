@@ -1,3 +1,4 @@
+'use strict';
 document.getElementById("center1").addEventListener("mouseover", mouseOver);
 document.getElementById("center1").addEventListener("mouseout", mouseOut);
 
